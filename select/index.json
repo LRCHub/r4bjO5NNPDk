@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Girly Cupid",
+  "base_artist": "Marpril",
+  "createdAt": "2026-03-11T18:57:02.219155Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Girly Cupid",
+      "artist": "Marpril",
+      "has_synced": true,
+      "path": "select/01_Girly_Cupid_Marpril.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Girly Cupid",
+      "artist": "Marpril",
+      "has_synced": false,
+      "path": "select/02_Girly_Cupid_Marpril.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Girly Cupid",
+      "artist": "PSYQUI, Marpril",
+      "has_synced": false,
+      "path": "select/03_Girly_Cupid_PSYQUI,_Marpril.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Girly Cupid",
+      "artist": "Marpril",
+      "has_synced": true,
+      "path": "select/04_Girly_Cupid_Marpril.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Girly Cupid",
+      "artist": "Marpril",
+      "has_synced": false,
+      "path": "select/pl_01_Girly_Cupid_Marpril.txt"
+    }
+  ]
+}
